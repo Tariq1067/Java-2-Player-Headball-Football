@@ -1,18 +1,18 @@
-# Java 2 Player Headball Football ⚽🎮
+# Java 2 Player Headball Football 
 
 A simple 2D Java game built using the CityEngine physics engine.
 
 ## Gameplay
-A two-player game where both players move around the world and collect stars ⭐. The player with the most stars wins (no win screen yet).
+A two-player game where both players move around the world and collect stars. The player with the most stars wins (no win screen yet).
 
 ## Controls
 
 **Player 1**
-- A / D → Move left/right  
+- A / D - Move left/right  
 - W → Jump  
 
 **Player 2**
-- ← / → → Move left/right  
+- ← / → - Move left/right  
 - ↑ → Jump  
 
 ## How to Run
